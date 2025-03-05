@@ -1,26 +1,24 @@
-Apache License
+Apache License 2.0
 Version 2.0, January 2004
 http://www.apache.org/licenses/
 
 TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+License Grant:
 
-1. **License Grant:**
-   - You are free to use, distribute, and reproduce this software **only in its original, unmodified form**.
-   - You **must provide attribution** to the original author.
-   - You **may NOT modify, adapt, or redistribute a modified version** under the same project name.
-   
-2. **Redistribution Restrictions:**
-   - Any redistributions must include this original license.
-   - Modifications are **only for personal or internal use** and may **not** be redistributed publicly under this project name.
-   - Any attempt to distribute a modified version as the original work is strictly prohibited.
-   
-3. **No Warranty:**
-   - This software is provided "as is" without any warranties or guarantees.
-   - The author is **not liable** for any damages resulting from the use of this software.
+You are free to use, modify, distribute, and reproduce this software.
+You must provide proper attribution to the original author.
+You may NOT claim modified versions as the original work or use the original project name for them.
+Redistribution Restrictions:
 
-4. **Attribution:**
-   - If you use this software in any project, you **must give credit** to the original author, **Ishan**.
+Any redistributions must include this original license.
+Modified versions must clearly state the changes and must not be misrepresented as the original work.
+The original author's name must not be removed or replaced in any credit sections.
+No Warranty:
 
+This software is provided "as is" without any warranties or guarantees.
+The author is not liable for any damages resulting from the use of this software.
+Attribution:
+
+If you use or distribute this software, you must give credit to the original author, Ishan Teredesai.
 For more details, see the full Apache License 2.0 at:
 http://www.apache.org/licenses/LICENSE-2.0
-
